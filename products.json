@@ -1269,8 +1269,8 @@
     {
         "id": "newk",
         "name": "196 LED",
-        "category": "5 Inch Panel & PCB Solution",
-        "subcategory": "Panel & PCB Solution",
+        "category": "7 Inch Panel & PCB Solution",
+        "subcategory": "Driver & PCB Solution",
         "image": "pics/211.jpg",
         "imageie": "/pics/211.jpg",
         "dimension": "160 MM",
@@ -1299,8 +1299,8 @@
     {
         "id": "newm",
         "name": "192 LED",
-        "category": "5 Inch Panel & PCB Solution",
-        "subcategory": "Panel & PCB Solution",
+        "category": "8 Inch Panel Driver & PCB Solution",
+        "subcategory": "Driver & PCB Solution",
         "image": "pics/213.jpg",
         "imageie": "/pics/213.jpg",
         "dimension": "186 MM",
@@ -1313,8 +1313,8 @@
     {
         "id": "newn",
         "name": "192 LED",
-        "category": "5 Inch Panel & PCB Solution",
-        "subcategory": "Panel & PCB Solution",
+        "category": "8 Inch Panel Driver & PCB Solution",
+        "subcategory": "Driver & PCB Solution",
         "image": "pics/214.jpg",
         "imageie": "/pics/214.jpg",
         "dimension": "186 MM",
