@@ -42,6 +42,10 @@ const productSchema = new mongoose.Schema({
         type: [String],
         required: false,
     },
+    cutsize: {
+        type: [String],
+        required: false,
+    },
     features: {
         type: [String],
         required: false,
