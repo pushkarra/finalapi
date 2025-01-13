@@ -55,6 +55,22 @@ const getAllProducts = async (req, res) => {
     res.status(200).json(Products);
 };
 
+// Fetch a single product by id
+const getProductById = async (req, res) => {
+    try {
+        const { id } = req.params;
+        const product = await Product.findOne({ id }).lean();
+        
+        if (!product) {
+            return res.status(404).json({ error: "Product not found" });
+        }
+        
+        res.status(200).json(product);
+    } catch (error) {
+        res.status(500).json({ error: "Server error" });
+    }
+};
+
 const getAllProductsTesting = async(req,res) => {
 
     const Products = await Product.find(req.query).lean();
@@ -62,4 +78,4 @@ const getAllProductsTesting = async(req,res) => {
     
 };
 
-module.exports = { getAllProducts, getAllProductsTesting };
+module.exports = { getAllProducts,  getProductById, getAllProductsTesting };
