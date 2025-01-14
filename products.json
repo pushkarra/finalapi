@@ -1299,6 +1299,7 @@
         "name": "Sensor",
         "category": "Motion Sensor Driver",
         "subcategory": "Motion Sensor",
+        "typeo": "Sensor",
         "image": "pics/198.jpg",
         "imageie": "/pics/198.jpg"
         
