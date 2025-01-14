@@ -794,7 +794,8 @@
         "current": "525MA",
         "pf": ">0.9",
         "surge": "4KV",
-        "typeo": "Non Isolated"
+        "typeo": "Non Isolated",
+        "featured": true
 
     },
 
@@ -1262,7 +1263,8 @@
         "current": "220MA",
         "pf": ">0.9",
         "surge": "4KV",
-        "typeo": "Non Isolated"
+        "typeo": "Non Isolated",
+        "featured": true
 
     },
 
