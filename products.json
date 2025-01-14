@@ -1,4 +1,84 @@
 [
+
+    {
+        "id": "newa",
+        "name": "Led Panel Light NP",
+        "category": "Led Panel",
+        "subcategory": "Panel",
+        "image": "pics/197.jpg",
+        "imageie": "/pics/197.jpg",
+        "power": ["8 Watt","12 Watt","15 Watt","22 Watt"],
+        "typeo": "Round",
+        "lumen": ["880 Lm","1320 Lm","1650 Lm","2420 Lm"],
+        "size" : ["4 Inch","5 Inch","6 Inch","8 Inch"],
+        "colors": ["#F4FDFF","#F9F7F8","#FDF4DC","#FF1A1A","#6EC531","#005aff","#F88CAE"],
+        "features": ["1. Poly carbonate housing with high efficient smd led backlit technology.", "2. Anti-Glare diffuser gives a soft & comfortable environment.", "3. Inbuilt driver with protections on board.", "4. High quality panel light round & square wide range with colours.", "5. Cool source of light.", "6. Available in Tri-Colour setup with (Cool White + Warm White + Natural White)"],
+        "featured": false
+    },
+
+    {
+        "id": "newb",
+        "name": "Led Panel Light NP-2",
+        "category": "Led Panel",
+        "subcategory": "Panel",
+        "image": "pics/206.jpg",
+        "imageie": "/pics/206.jpg",
+        "power": ["8 Watt","12 Watt","15 Watt","22 Watt"],
+        "typeo": "Square",
+        "lumen": ["880 Lm","1320 Lm","1650 Lm","2420 Lm"],
+        "size" : ["4 Inch","5 Inch","6 Inch","8 Inch"],
+        "colors": ["#F4FDFF","#F9F7F8","#FDF4DC","#FF1A1A","#6EC531","#005aff","#F88CAE"],
+        "features": ["1. Poly carbonate housing with high efficient smd led backlit technology.", "2. Anti-Glare diffuser gives a soft & comfortable environment.", "3. Inbuilt driver with protections on board.", "4. High quality panel light round & square wide range with colours.", "5. Cool source of light.", "6. Available in Tri-Colour setup with (Cool White + Warm White + Natural White)"],
+        "featured": false
+    },
+
+    {
+        "id": "newc",
+        "name": "Led Downlight NP",
+        "category": "Led Panel",
+        "subcategory": "Panel",
+        "image": "pics/207.jpg",
+        "imageie": "/pics/207.jpg",
+        "power": ["7 Watt"],
+        "typeo": "Round",
+        "lumen": ["880 Lm"],
+        "size" : ["3.25 Inch"],
+        "colors": ["#F4FDFF","#F9F7F8","#FDF4DC","#FF1A1A","#6EC531","#005aff","#F88CAE"],
+        "features": ["1. Poly carbonate housing with high efficient smd led backlit technology.", "2. Anti-Glare diffuser gives a soft & comfortable environment.", "3. Inbuilt driver with protections on board.", "4. High quality panel light round & square wide range with colours.", "5. Cool source of light.", "6. Available in Tri-Colour setup with (Cool White + Warm White + Natural White)"],
+        "featured": false
+    },
+
+
+    {
+        "id": "newd",
+        "name": "Rimless Surface Panel",
+        "category": "Led Panel",
+        "subcategory": "Rimless Panel",
+        "image": "pics/196.jpg",
+        "imageie": "/pics/196.jpg",
+        "power": ["8 Watt"],
+        "typeo": "Round",
+        "lumen": ["880 Lm", "1650 Lm"],
+        "colors": ["#F4FDFF","#F9F7F8","#FDF4DC","#FF1A1A","#6EC531","#005aff","#F88CAE"],
+        "features": ["1. Poly carbonate housing with high efficient smd led backlit technology.", "2. Anti-Glare diffuser gives a soft & comfortable environment.", "3. Inbuilt driver with protections on board.", "4. High quality panel light round & square wide range with colours.", "5. Cool source of light.", "6. Available in Tri-Colour setup with (Cool White + Warm White + Natural White)"],
+        "featured": false
+    },
+
+    {
+        "id": "newe",
+        "name": "Rimless Surface Panel",
+        "category": "Led Panel",
+        "subcategory": "Rimless Panel",
+        "image": "pics/208.jpg",
+        "imageie": "/pics/208.jpg",
+        "power": ["8 Watt"],
+        "typeo": "Square",
+        "lumen": ["880 Lm", "1650 Lm"],
+        "colors": ["#F4FDFF","#F9F7F8","#FDF4DC","#FF1A1A","#6EC531","#005aff","#F88CAE"],
+        "features": ["1. Poly carbonate housing with high efficient smd led backlit technology.", "2. Anti-Glare diffuser gives a soft & comfortable environment.", "3. Inbuilt driver with protections on board.", "4. High quality panel light round & square wide range with colours.", "5. Cool source of light.", "6. Available in Tri-Colour setup with (Cool White + Warm White + Natural White)"],
+        "featured": false
+    },
+
     {
         "id": "firstelectronicsa",
         "name": "Led Panel Light",
@@ -490,6 +570,81 @@
         "dimension": "130MM",
         "color": "All Color",
         "typeo": "Round"
+
+    },
+
+    {
+        "id": "newj",
+        "name": "18W",
+        "category": "7 Inch Panel & PCB Solution",
+        "subcategory": "Driver & PCB Solution",
+        "image": "pics/210.jpg",
+        "imageie": "/pics/210.jpg",
+        "voltage1": "100 - 300V",
+        "voltage2": "100V",
+        "current": "220MA",
+        "pf": ">0.9",
+        "surge": "4KV",
+        "typeo": "Non Isolated",
+        "featured": true
+
+    },
+
+    {
+        "id": "newk",
+        "name": "196 LED",
+        "category": "7 Inch Panel & PCB Solution",
+        "subcategory": "Driver & PCB Solution",
+        "image": "pics/211.jpg",
+        "imageie": "/pics/211.jpg",
+        "dimension": "160 MM",
+        "color": "All Color",
+        "typeo": "Round",
+        "featured": false
+
+    },
+
+    {
+        "id": "newl",
+        "name": "24W",
+        "category": "8 Inch Panel & PCB Solution",
+        "subcategory": "Driver & PCB Solution",
+        "image": "pics/212.jpg",
+        "imageie": "/pics/212.jpg",
+        "voltage1": "100 - 300V",
+        "voltage2": "100V",
+        "current": "300MA",
+        "pf": ">0.9",
+        "surge": "4KV",
+        "typeo": "Non Isolated"
+
+    },
+
+    {
+        "id": "newm",
+        "name": "192 LED",
+        "category": "8 Inch Panel & PCB Solution",
+        "subcategory": "Driver & PCB Solution",
+        "image": "pics/213.jpg",
+        "imageie": "/pics/213.jpg",
+        "dimension": "186 MM",
+        "color": "All Color",
+        "typeo": "Square",
+        "featured": false
+
+    },
+
+    {
+        "id": "newn",
+        "name": "192 LED",
+        "category": "8 Inch Panel & PCB Solution",
+        "subcategory": "Driver & PCB Solution",
+        "image": "pics/214.jpg",
+        "imageie": "/pics/214.jpg",
+        "dimension": "186 MM",
+        "color": "All Color",
+        "typeo": "Round",
+        "featured": false
 
     },
 
@@ -987,75 +1142,7 @@
 
     },
 
-    {
-        "id": "accessa",
-        "name": "2 Pin",
-        "category": "Accessories",
-        "subcategory": "Accessories part",
-        "image": "pics/24_a.jpg",
-        "imageie": "/pics/24_a.jpg",
-        "dimension": "150MM",
-        "color": "Orange"
-
-    },
-
-    {
-        "id": "accessb",
-        "name": "3 Pin",
-        "category": "Accessories",
-        "subcategory": "Accessories part",
-        "image": "pics/24_b.jpg",
-        "imageie": "/pics/24_b.jpg",
-        "dimension": "120MM",
-        "color": "Orange"
-
-    },
-
-    {
-        "id": "accessc",
-        "name": "DC Wire",
-        "category": "Accessories",
-        "subcategory": "Accessories part",
-        "image": "pics/24_c.jpg",
-        "imageie": "/pics/24_c.jpg",
-        "dimension": "70MM",
-        "color": "Red & Black"
-
-    },
-
-    {
-        "id": "accessd",
-        "name": "AC Wire",
-        "category": "Accessories",
-        "subcategory": "Accessories part",
-        "image": "pics/24_d.jpg",
-        "imageie": "/pics/24_d.jpg",
-        "color": "Red & White",
-        "dimension": "130MM"
-    },
-
-    {
-        "id": "accesse",
-        "name": "RTV",
-        "category": "Accessories",
-        "subcategory": "Accessories part",
-        "image": "pics/24_e.jpg",
-        "imageie": "/pics/24_e.jpg",
-        "color": "Red & Blue",
-        "dimension": "75MM"
-    },
-
-    {
-        "id": "accessf",
-        "name": "Spring",
-        "category": "Accessories",
-        "subcategory": "Accessories part",
-        "image": "pics/24_f.jpg",
-        "imageie": "/pics/24_f.jpg",
-        "color": "RED & BLACK",
-        "dimension": "60MM"
-        
-    },
+    
 
 
 
@@ -1093,85 +1180,7 @@
 
 
 
-
-    {
-        "id": "newa",
-        "name": "Led Panel Light NP",
-        "category": "Led Panel",
-        "subcategory": "Panel",
-        "image": "pics/197.jpg",
-        "imageie": "/pics/197.jpg",
-        "power": ["8 Watt","12 Watt","15 Watt","22 Watt"],
-        "typeo": "Round",
-        "lumen": ["880 Lm","1320 Lm","1650 Lm","2420 Lm"],
-        "size" : ["4 Inch","5 Inch","6 Inch","8 Inch"],
-        "colors": ["#F4FDFF","#F9F7F8","#FDF4DC","#FF1A1A","#6EC531","#005aff","#F88CAE"],
-        "features": ["1. Poly carbonate housing with high efficient smd led backlit technology.", "2. Anti-Glare diffuser gives a soft & comfortable environment.", "3. Inbuilt driver with protections on board.", "4. High quality panel light round & square wide range with colours.", "5. Cool source of light.", "6. Available in Tri-Colour setup with (Cool White + Warm White + Natural White)"],
-        "featured": false
-    },
-
-    {
-        "id": "newb",
-        "name": "Led Panel Light NP-2",
-        "category": "Led Panel",
-        "subcategory": "Panel",
-        "image": "pics/206.jpg",
-        "imageie": "/pics/206.jpg",
-        "power": ["8 Watt","12 Watt","15 Watt","22 Watt"],
-        "typeo": "Square",
-        "lumen": ["880 Lm","1320 Lm","1650 Lm","2420 Lm"],
-        "size" : ["4 Inch","5 Inch","6 Inch","8 Inch"],
-        "colors": ["#F4FDFF","#F9F7F8","#FDF4DC","#FF1A1A","#6EC531","#005aff","#F88CAE"],
-        "features": ["1. Poly carbonate housing with high efficient smd led backlit technology.", "2. Anti-Glare diffuser gives a soft & comfortable environment.", "3. Inbuilt driver with protections on board.", "4. High quality panel light round & square wide range with colours.", "5. Cool source of light.", "6. Available in Tri-Colour setup with (Cool White + Warm White + Natural White)"],
-        "featured": false
-    },
-
-    {
-        "id": "newc",
-        "name": "Led Downlight NP",
-        "category": "Led Panel",
-        "subcategory": "Panel",
-        "image": "pics/207.jpg",
-        "imageie": "/pics/207.jpg",
-        "power": ["7 Watt"],
-        "typeo": "Round",
-        "lumen": ["880 Lm"],
-        "size" : ["3.25 Inch"],
-        "colors": ["#F4FDFF","#F9F7F8","#FDF4DC","#FF1A1A","#6EC531","#005aff","#F88CAE"],
-        "features": ["1. Poly carbonate housing with high efficient smd led backlit technology.", "2. Anti-Glare diffuser gives a soft & comfortable environment.", "3. Inbuilt driver with protections on board.", "4. High quality panel light round & square wide range with colours.", "5. Cool source of light.", "6. Available in Tri-Colour setup with (Cool White + Warm White + Natural White)"],
-        "featured": false
-    },
-
-
-    {
-        "id": "newd",
-        "name": "Rimless Surface Panel",
-        "category": "Rimless Panel",
-        "subcategory": "Panel",
-        "image": "pics/196.jpg",
-        "imageie": "/pics/196.jpg",
-        "power": ["8 Watt"],
-        "typeo": "Round",
-        "lumen": ["880 Lm", "1650 Lm"],
-        "colors": ["#F4FDFF","#F9F7F8","#FDF4DC","#FF1A1A","#6EC531","#005aff","#F88CAE"],
-        "features": ["1. Poly carbonate housing with high efficient smd led backlit technology.", "2. Anti-Glare diffuser gives a soft & comfortable environment.", "3. Inbuilt driver with protections on board.", "4. High quality panel light round & square wide range with colours.", "5. Cool source of light.", "6. Available in Tri-Colour setup with (Cool White + Warm White + Natural White)"],
-        "featured": false
-    },
-
-    {
-        "id": "newe",
-        "name": "Rimless Surface Panel",
-        "category": "Rimless Panel",
-        "subcategory": "Panel",
-        "image": "pics/208.jpg",
-        "imageie": "/pics/208.jpg",
-        "power": ["8 Watt"],
-        "typeo": "Square",
-        "lumen": ["880 Lm", "1650 Lm"],
-        "colors": ["#F4FDFF","#F9F7F8","#FDF4DC","#FF1A1A","#6EC531","#005aff","#F88CAE"],
-        "features": ["1. Poly carbonate housing with high efficient smd led backlit technology.", "2. Anti-Glare diffuser gives a soft & comfortable environment.", "3. Inbuilt driver with protections on board.", "4. High quality panel light round & square wide range with colours.", "5. Cool source of light.", "6. Available in Tri-Colour setup with (Cool White + Warm White + Natural White)"],
-        "featured": false
-    },
+    
 
     {
         "id": "newf",
@@ -1192,7 +1201,7 @@
     {
         "id": "newg",
         "name": "COB Light",
-        "category": "COB Light",
+        "category": "Movable COB",
         "subcategory": "COB",
         "image": "pics/201.jpg",
         "imageie": "/pics/201.jpg",
@@ -1208,7 +1217,7 @@
     {
         "id": "newg1",
         "name": "COB Light",
-        "category": "COB Light",
+        "category": "Movable COB",
         "subcategory": "COB",
         "image": "pics/203.jpg",
         "imageie": "/pics/203.jpg",
@@ -1224,7 +1233,7 @@
     {
         "id": "newh",
         "name": "COB Cylinder",
-        "category": "COB Cylinder",
+        "category": "Movable COB",
         "subcategory": "COB",
         "image": "pics/202.jpg",
         "imageie": "/pics/202.jpg",
@@ -1239,7 +1248,7 @@
     {
         "id": "newi",
         "name": "COB Cylinder",
-        "category": "COB Cylinder",
+        "category": "Movable COB",
         "subcategory": "COB",
         "image": "pics/204.jpg",
         "imageie": "/pics/204.jpg",
@@ -1251,80 +1260,7 @@
 
     },
 
-    {
-        "id": "newj",
-        "name": "18W",
-        "category": "7 Inch Panel Driver & PCB Solution",
-        "subcategory": "Driver & PCB Solution",
-        "image": "pics/210.jpg",
-        "imageie": "/pics/210.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "100V",
-        "current": "220MA",
-        "pf": ">0.9",
-        "surge": "4KV",
-        "typeo": "Non Isolated",
-        "featured": true
-
-    },
-
-    {
-        "id": "newk",
-        "name": "196 LED",
-        "category": "7 Inch Panel Driver & PCB Solution",
-        "subcategory": "Driver & PCB Solution",
-        "image": "pics/211.jpg",
-        "imageie": "/pics/211.jpg",
-        "dimension": "160 MM",
-        "color": "All Color",
-        "typeo": "Round",
-        "featured": false
-
-    },
-
-    {
-        "id": "newl",
-        "name": "24W",
-        "category": "8 Inch Panel Driver & PCB Solution",
-        "subcategory": "Driver & PCB Solution",
-        "image": "pics/212.jpg",
-        "imageie": "/pics/212.jpg",
-        "voltage1": "100 - 300V",
-        "voltage2": "100V",
-        "current": "300MA",
-        "pf": ">0.9",
-        "surge": "4KV",
-        "typeo": "Non Isolated"
-
-    },
-
-    {
-        "id": "newm",
-        "name": "192 LED",
-        "category": "8 Inch Panel Driver & PCB Solution",
-        "subcategory": "Driver & PCB Solution",
-        "image": "pics/213.jpg",
-        "imageie": "/pics/213.jpg",
-        "dimension": "186 MM",
-        "color": "All Color",
-        "typeo": "Square",
-        "featured": false
-
-    },
-
-    {
-        "id": "newn",
-        "name": "192 LED",
-        "category": "8 Inch Panel Driver & PCB Solution",
-        "subcategory": "Driver & PCB Solution",
-        "image": "pics/214.jpg",
-        "imageie": "/pics/214.jpg",
-        "dimension": "186 MM",
-        "color": "All Color",
-        "typeo": "Round",
-        "featured": false
-
-    },
+    
 
     {
         "id": "newo",
@@ -1408,7 +1344,84 @@
         "typeo": "Round",
         "featured": false
 
+    },
+
+    {
+        "id": "accessa",
+        "name": "2 Pin",
+        "category": "Accessories",
+        "subcategory": "Accessories part",
+        "image": "pics/24_a.jpg",
+        "imageie": "/pics/24_a.jpg",
+        "typeo": "Wire",
+        "dimension": "150MM",
+        "color": "Orange"
+
+    },
+
+    {
+        "id": "accessb",
+        "name": "3 Pin",
+        "category": "Accessories",
+        "subcategory": "Accessories part",
+        "image": "pics/24_b.jpg",
+        "imageie": "/pics/24_b.jpg",
+        "typeo": "Wire",
+        "dimension": "120MM",
+        "color": "Orange"
+
+    },
+
+    {
+        "id": "accessc",
+        "name": "DC Wire",
+        "category": "Accessories",
+        "subcategory": "Accessories part",
+        "image": "pics/24_c.jpg",
+        "imageie": "/pics/24_c.jpg",
+        "typeo": "Wire",
+        "dimension": "70MM",
+        "color": "Red & Black"
+
+    },
+
+    {
+        "id": "accessd",
+        "name": "AC Wire",
+        "category": "Accessories",
+        "subcategory": "Accessories part",
+        "image": "pics/24_d.jpg",
+        "imageie": "/pics/24_d.jpg",
+        "typeo": "Wire",
+        "color": "Red & White",
+        "dimension": "130MM"
+    },
+
+    {
+        "id": "accesse",
+        "name": "RTV",
+        "category": "Accessories",
+        "subcategory": "Accessories part",
+        "image": "pics/24_e.jpg",
+        "imageie": "/pics/24_e.jpg",
+        "typeo": "Liquid",
+        "color": "Red & Blue",
+        "dimension": "75MM"
+    },
+
+    {
+        "id": "accessf",
+        "name": "Spring",
+        "category": "Accessories",
+        "subcategory": "Accessories part",
+        "image": "pics/24_f.jpg",
+        "imageie": "/pics/24_f.jpg",
+        "typeo": "Spring",
+        "color": "RED & BLACK",
+        "dimension": "60MM"
+        
     }
+
 
 
 ]
